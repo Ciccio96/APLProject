@@ -1,0 +1,37 @@
+﻿  main.cpp
+C:\ProgettoAPL\SocketServer\ServerSocketLib\main.cpp(89,9): warning C4530: utilizzato gestore eccezioni C++, ma la semantica di rimozione non è abilitata. Specificare /EHsc
+C:\ProgettoAPL\SocketServer\ServerSocketLib\main.cpp(113,64): warning C4267: 'inizializzazione': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+C:\ProgettoAPL\SocketServer\ServerSocketLib\main.cpp(113,46): warning C4267: 'inizializzazione': conversione da 'size_t' a 'const int'. Possibile perdita di dati.
+C:\ProgettoAPL\SocketServer\ServerSocketLib\main.cpp(117,70): warning C4267: 'argomento': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+C:\ProgettoAPL\SocketServer\ServerSocketLib\main.cpp(124,64): warning C4267: 'inizializzazione': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+C:\ProgettoAPL\SocketServer\ServerSocketLib\main.cpp(124,46): warning C4267: 'inizializzazione': conversione da 'size_t' a 'const int'. Possibile perdita di dati.
+C:\ProgettoAPL\SocketServer\ServerSocketLib\main.cpp(141,74): warning C4267: 'argomento': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+     Creazione della libreria C:\ProgettoAPL\JewelryBookAPL - Server\x64\Release\SocketServer.lib e dell'oggetto C:\ProgettoAPL\JewelryBookAPL - Server\x64\Release\SocketServer.exp
+  Generazione codice in corso...
+  1 of 146 functions ( 0.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Generazione codice terminata
+mysqlcppconn-static.lib(mysql_driver.obj) : warning LNK4099: impossibile trovare il PDB '' con 'mysqlcppconn-static.lib(mysql_driver.obj)' o in ''; oggetto collegato senza informazioni di debug
+mysqlcppconn-static.lib(mysql_connection.obj) : warning LNK4099: impossibile trovare il PDB '' con 'mysqlcppconn-static.lib(mysql_connection.obj)' o in ''; oggetto collegato senza informazioni di debug
+mysqlcppconn-static.lib(mysql_native_driver_wrapper.obj) : warning LNK4099: impossibile trovare il PDB '' con 'mysqlcppconn-static.lib(mysql_native_driver_wrapper.obj)' o in ''; oggetto collegato senza informazioni di debug
+mysqlcppconn-static.lib(mysql_uri.obj) : warning LNK4099: impossibile trovare il PDB '' con 'mysqlcppconn-static.lib(mysql_uri.obj)' o in ''; oggetto collegato senza informazioni di debug
+mysqlcppconn-static.lib(mysql_metadata.obj) : warning LNK4099: impossibile trovare il PDB '' con 'mysqlcppconn-static.lib(mysql_metadata.obj)' o in ''; oggetto collegato senza informazioni di debug
+mysqlcppconn-static.lib(mysql_warning.obj) : warning LNK4099: impossibile trovare il PDB '' con 'mysqlcppconn-static.lib(mysql_warning.obj)' o in ''; oggetto collegato senza informazioni di debug
+mysqlcppconn-static.lib(mysql_prepared_statement.obj) : warning LNK4099: impossibile trovare il PDB '' con 'mysqlcppconn-static.lib(mysql_prepared_statement.obj)' o in ''; oggetto collegato senza informazioni di debug
+mysqlcppconn-static.lib(mysql_statement.obj) : warning LNK4099: impossibile trovare il PDB '' con 'mysqlcppconn-static.lib(mysql_statement.obj)' o in ''; oggetto collegato senza informazioni di debug
+mysqlcppconn-static.lib(mysql_debug.obj) : warning LNK4099: impossibile trovare il PDB '' con 'mysqlcppconn-static.lib(mysql_debug.obj)' o in ''; oggetto collegato senza informazioni di debug
+mysqlcppconn-static.lib(mysql_client_api.obj) : warning LNK4099: impossibile trovare il PDB '' con 'mysqlcppconn-static.lib(mysql_client_api.obj)' o in ''; oggetto collegato senza informazioni di debug
+mysqlcppconn-static.lib(mysql_native_connection_wrapper.obj) : warning LNK4099: impossibile trovare il PDB '' con 'mysqlcppconn-static.lib(mysql_native_connection_wrapper.obj)' o in ''; oggetto collegato senza informazioni di debug
+mysqlcppconn-static.lib(mysql_util.obj) : warning LNK4099: impossibile trovare il PDB '' con 'mysqlcppconn-static.lib(mysql_util.obj)' o in ''; oggetto collegato senza informazioni di debug
+mysqlcppconn-static.lib(mysql_art_resultset.obj) : warning LNK4099: impossibile trovare il PDB '' con 'mysqlcppconn-static.lib(mysql_art_resultset.obj)' o in ''; oggetto collegato senza informazioni di debug
+mysqlcppconn-static.lib(mysql_resultbind.obj) : warning LNK4099: impossibile trovare il PDB '' con 'mysqlcppconn-static.lib(mysql_resultbind.obj)' o in ''; oggetto collegato senza informazioni di debug
+mysqlcppconn-static.lib(mysql_ps_resultset.obj) : warning LNK4099: impossibile trovare il PDB '' con 'mysqlcppconn-static.lib(mysql_ps_resultset.obj)' o in ''; oggetto collegato senza informazioni di debug
+mysqlcppconn-static.lib(mysql_ps_resultset_metadata.obj) : warning LNK4099: impossibile trovare il PDB '' con 'mysqlcppconn-static.lib(mysql_ps_resultset_metadata.obj)' o in ''; oggetto collegato senza informazioni di debug
+mysqlcppconn-static.lib(mysql_parameter_metadata.obj) : warning LNK4099: impossibile trovare il PDB '' con 'mysqlcppconn-static.lib(mysql_parameter_metadata.obj)' o in ''; oggetto collegato senza informazioni di debug
+mysqlcppconn-static.lib(mysql_resultset.obj) : warning LNK4099: impossibile trovare il PDB '' con 'mysqlcppconn-static.lib(mysql_resultset.obj)' o in ''; oggetto collegato senza informazioni di debug
+mysqlcppconn-static.lib(mysql_native_resultset_wrapper.obj) : warning LNK4099: impossibile trovare il PDB '' con 'mysqlcppconn-static.lib(mysql_native_resultset_wrapper.obj)' o in ''; oggetto collegato senza informazioni di debug
+mysqlcppconn-static.lib(mysql_native_statement_wrapper.obj) : warning LNK4099: impossibile trovare il PDB '' con 'mysqlcppconn-static.lib(mysql_native_statement_wrapper.obj)' o in ''; oggetto collegato senza informazioni di debug
+mysqlcppconn-static.lib(mysql_art_rset_metadata.obj) : warning LNK4099: impossibile trovare il PDB '' con 'mysqlcppconn-static.lib(mysql_art_rset_metadata.obj)' o in ''; oggetto collegato senza informazioni di debug
+mysqlcppconn-static.lib(mysql_resultset_metadata.obj) : warning LNK4099: impossibile trovare il PDB '' con 'mysqlcppconn-static.lib(mysql_resultset_metadata.obj)' o in ''; oggetto collegato senza informazioni di debug
+  SocketServer.vcxproj -> C:\ProgettoAPL\JewelryBookAPL - Server\x64\Release\SocketServer.exe
