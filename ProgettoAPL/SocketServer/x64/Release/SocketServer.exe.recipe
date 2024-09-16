@@ -2,7 +2,7 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>C:\ProgettoAPL\JewelryBookAPL - Server\x64\Release\SocketServer.exe</FullPath>
+      <FullPath>C:\APLProject\ProgettoAPL\JewelryBookAPL - Server\x64\Release\SocketServer.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />

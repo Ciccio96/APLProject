@@ -1,16 +1,16 @@
 ﻿  main.cpp
-C:\ProgettoAPL\SocketServer\ServerSocketLib\main.cpp(89,9): warning C4530: utilizzato gestore eccezioni C++, ma la semantica di rimozione non è abilitata. Specificare /EHsc
-C:\ProgettoAPL\SocketServer\ServerSocketLib\main.cpp(113,64): warning C4267: 'inizializzazione': conversione da 'size_t' a 'int'. Possibile perdita di dati.
-C:\ProgettoAPL\SocketServer\ServerSocketLib\main.cpp(113,46): warning C4267: 'inizializzazione': conversione da 'size_t' a 'const int'. Possibile perdita di dati.
-C:\ProgettoAPL\SocketServer\ServerSocketLib\main.cpp(117,70): warning C4267: 'argomento': conversione da 'size_t' a 'int'. Possibile perdita di dati.
-C:\ProgettoAPL\SocketServer\ServerSocketLib\main.cpp(124,64): warning C4267: 'inizializzazione': conversione da 'size_t' a 'int'. Possibile perdita di dati.
-C:\ProgettoAPL\SocketServer\ServerSocketLib\main.cpp(124,46): warning C4267: 'inizializzazione': conversione da 'size_t' a 'const int'. Possibile perdita di dati.
-C:\ProgettoAPL\SocketServer\ServerSocketLib\main.cpp(141,74): warning C4267: 'argomento': conversione da 'size_t' a 'int'. Possibile perdita di dati.
-     Creazione della libreria C:\ProgettoAPL\JewelryBookAPL - Server\x64\Release\SocketServer.lib e dell'oggetto C:\ProgettoAPL\JewelryBookAPL - Server\x64\Release\SocketServer.exp
+C:\APLProject\ProgettoAPL\SocketServer\ServerSocketLib\main.cpp(89,9): warning C4530: utilizzato gestore eccezioni C++, ma la semantica di rimozione non è abilitata. Specificare /EHsc
+C:\APLProject\ProgettoAPL\SocketServer\ServerSocketLib\main.cpp(113,64): warning C4267: 'inizializzazione': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+C:\APLProject\ProgettoAPL\SocketServer\ServerSocketLib\main.cpp(113,46): warning C4267: 'inizializzazione': conversione da 'size_t' a 'const int'. Possibile perdita di dati.
+C:\APLProject\ProgettoAPL\SocketServer\ServerSocketLib\main.cpp(117,70): warning C4267: 'argomento': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+C:\APLProject\ProgettoAPL\SocketServer\ServerSocketLib\main.cpp(124,64): warning C4267: 'inizializzazione': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+C:\APLProject\ProgettoAPL\SocketServer\ServerSocketLib\main.cpp(124,46): warning C4267: 'inizializzazione': conversione da 'size_t' a 'const int'. Possibile perdita di dati.
+C:\APLProject\ProgettoAPL\SocketServer\ServerSocketLib\main.cpp(141,74): warning C4267: 'argomento': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+     Creazione della libreria C:\APLProject\ProgettoAPL\JewelryBookAPL - Server\x64\Release\SocketServer.lib e dell'oggetto C:\APLProject\ProgettoAPL\JewelryBookAPL - Server\x64\Release\SocketServer.exp
   Generazione codice in corso...
-  1 of 146 functions ( 0.7%) were compiled, the rest were copied from previous compilation.
+  143 of 146 functions (97.9%) were compiled, the rest were copied from previous compilation.
     0 functions were new in current compilation
-    0 functions had inline decision re-evaluated but remain unchanged
+    1 functions had inline decision re-evaluated but remain unchanged
   Generazione codice terminata
 mysqlcppconn-static.lib(mysql_driver.obj) : warning LNK4099: impossibile trovare il PDB '' con 'mysqlcppconn-static.lib(mysql_driver.obj)' o in ''; oggetto collegato senza informazioni di debug
 mysqlcppconn-static.lib(mysql_connection.obj) : warning LNK4099: impossibile trovare il PDB '' con 'mysqlcppconn-static.lib(mysql_connection.obj)' o in ''; oggetto collegato senza informazioni di debug
@@ -34,4 +34,4 @@ mysqlcppconn-static.lib(mysql_native_resultset_wrapper.obj) : warning LNK4099: i
 mysqlcppconn-static.lib(mysql_native_statement_wrapper.obj) : warning LNK4099: impossibile trovare il PDB '' con 'mysqlcppconn-static.lib(mysql_native_statement_wrapper.obj)' o in ''; oggetto collegato senza informazioni di debug
 mysqlcppconn-static.lib(mysql_art_rset_metadata.obj) : warning LNK4099: impossibile trovare il PDB '' con 'mysqlcppconn-static.lib(mysql_art_rset_metadata.obj)' o in ''; oggetto collegato senza informazioni di debug
 mysqlcppconn-static.lib(mysql_resultset_metadata.obj) : warning LNK4099: impossibile trovare il PDB '' con 'mysqlcppconn-static.lib(mysql_resultset_metadata.obj)' o in ''; oggetto collegato senza informazioni di debug
-  SocketServer.vcxproj -> C:\ProgettoAPL\JewelryBookAPL - Server\x64\Release\SocketServer.exe
+  SocketServer.vcxproj -> C:\APLProject\ProgettoAPL\JewelryBookAPL - Server\x64\Release\SocketServer.exe

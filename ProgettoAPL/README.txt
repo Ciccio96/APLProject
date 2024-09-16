@@ -1,6 +1,7 @@
 Settaggio parametri per il funzionamento dell'applicazione
 
 --------------------------------------------------- DATABASE ------------------------------------------------
+
 Scaricare MySql Installer per ottenere MySql Server e Workbench .... poi creare un nuovo database (approccio in locale)
 
 			Nome: Local
@@ -61,7 +62,38 @@ Creiamo degli utenti e delle gioiellerie di prova:
 
 A questo punto il DB è pronto per essere utilizzato ....
 
---------------------------------------------------- PYTHON (modulo statistiche) ----------------------------------------------------------------------------
+
+
+--------------------------------------------------- SCARICARE CARTELLA DEL PROGETTO -------------------------------------------------
+
+Per scaricare il progetto recarsi al seguente path: https://github.com/Ciccio96/APLProject/tree/main/ProgettoAPL ed effettuarne il download
+
+Una volta scaricato posizionare la cartella ProgettoAPL (che si trova all'interno di APLProject) come al path seguente: C:\ProgettoAPL (condizione necessaria)
+
+
+
+--------------------------------------------------- C++ (modulo Server) -------------------------------------------------------------
+
+Per l'avvio del server aprire tramite VisualStudio il file soluzione (JewelryBookAPL - Server.sln) che si trova al seguente path:
+ --> C:\ProgettoAPL\JewelryBookAPL - Server
+
+N.B. Il file (main.cpp) che contiene il metodo main richiamato nel progetto si trova al seguente path: 
+ --> C:\ProgettoAPL\SocketServer\ServerSocketLib
+
+
+
+--------------------------------------------------- C# (modulo Client) --------------------------------------------------------------
+
+Per l'avvio del client aprire tramite VisualStudio il file soluzione (APL-ServerDef.sln) che si trova al seguente path:
+ --> C:\ProgettoAPL\APL-ServerDef
+
+
+
+--------------------------------------------------- PYTHON (modulo Statistiche) -----------------------------------------------------
+
+Per ispezionare il codice Python relativo alle statistiche esso si trova nel file test.py al seguente path:
+ --> C:\ProgettoAPL\APLStatistics
+
 
 I passi seguenti vanno effettuati per visualizzare solo le statistiche attuali del programma (decommentare plot.Show() dal file test.py)
 
@@ -74,10 +106,6 @@ utilizzando la sintassi seguente:
 pip install mysql-connector-python   e   pip install matplotlib
 
 *Se l'esecuzione di test.py non va a buon fine commentare momentaneamente le ultime tre righe e decommentare plot.Show().
-
---------------------------------------------------- C++ (modulo server) ----------------------------------------------------------------------------
-
-Per l'avvio del server basta avviarlo tramite g++ C:\ProgettoAPL\main.cpp
 
 
 
