@@ -64,14 +64,6 @@ A questo punto il DB è pronto per essere utilizzato ....
 
 
 
---------------------------------------------------- SCARICARE CARTELLA DEL PROGETTO -------------------------------------------------
-
-Per scaricare il progetto recarsi al seguente path: https://github.com/Ciccio96/APLProject/tree/main/ProgettoAPL ed effettuarne il download
-
-Una volta scaricato posizionare la cartella ProgettoAPL (che si trova all'interno di APLProject) come al path seguente: C:\ProgettoAPL (condizione necessaria)
-
-
-
 --------------------------------------------------- C++ (modulo Server) -------------------------------------------------------------
 
 Per l'avvio del server aprire tramite VisualStudio il file soluzione (JewelryBookAPL - Server.sln) che si trova al seguente path:
