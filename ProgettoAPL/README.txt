@@ -72,6 +72,7 @@ Per l'avvio del server aprire tramite VisualStudio il file soluzione (JewelryBoo
 N.B. Il file (main.cpp) che contiene il metodo main richiamato nel progetto si trova al seguente path: 
  --> C:\APLProject\ProgettoAPL\SocketServer\ServerSocketLib
 
+*Chiedo scusa per il nome ambiguo dato inizialmente solo per prova ma che non sono riuscito a cambiare senza fare danno
 
 
 --------------------------------------------------- C# (modulo Client) --------------------------------------------------------------
@@ -79,6 +80,7 @@ N.B. Il file (main.cpp) che contiene il metodo main richiamato nel progetto si t
 Per l'avvio del client aprire tramite VisualStudio il file soluzione (APL-ServerDef.sln) che si trova al seguente path:
  --> C:\APLProject\ProgettoAPL\APL-ServerDef
 
+*Chiedo scusa per il nome ambiguo dato inizialmente solo per prova ma che non sono riuscito a cambiare senza fare danno
 
 
 --------------------------------------------------- PYTHON (modulo Statistiche) -----------------------------------------------------
