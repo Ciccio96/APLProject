@@ -36,7 +36,7 @@
               "RelativeDocumentMoniker": "..\\SocketServer\\metodi.h",
               "ToolTip": "C:\\APLProject\\ProgettoAPL\\SocketServer\\metodi.h",
               "RelativeToolTip": "..\\SocketServer\\metodi.h",
-              "ViewState": "AgIAACAAAAAAAAAAAAAAADYAAAByAAAAAAAAAA==",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAADcAAABnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-09-16T11:06:23.902Z",
               "IsPinned": true,
@@ -50,10 +50,11 @@
               "RelativeDocumentMoniker": "..\\SocketServer\\ServerSocketLib\\main.cpp",
               "ToolTip": "C:\\APLProject\\ProgettoAPL\\SocketServer\\ServerSocketLib\\main.cpp",
               "RelativeToolTip": "..\\SocketServer\\ServerSocketLib\\main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-09-16T14:21:43.603Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -63,9 +64,10 @@
               "RelativeDocumentMoniker": "..\\SocketServer\\socketSetting.h",
               "ToolTip": "C:\\APLProject\\ProgettoAPL\\SocketServer\\socketSetting.h",
               "RelativeToolTip": "..\\SocketServer\\socketSetting.h",
-              "ViewState": "AgIAADYAAAAAAAAAAAAAAD0AAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAACQAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-09-16T16:15:20.009Z"
+              "WhenOpened": "2024-09-16T16:15:20.009Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -75,9 +77,10 @@
               "RelativeDocumentMoniker": "..\\SocketServer\\connectionToDb.h",
               "ToolTip": "C:\\APLProject\\ProgettoAPL\\SocketServer\\connectionToDb.h",
               "RelativeToolTip": "..\\SocketServer\\connectionToDb.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-09-16T15:21:15.723Z"
+              "WhenOpened": "2024-09-16T15:21:15.723Z",
+              "EditorCaption": ""
             }
           ]
         }

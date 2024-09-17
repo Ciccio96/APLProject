@@ -34,6 +34,7 @@ class Metodi
                         cout << "Query ricevuta dal client: " <<receiveBuffer << endl;
                         string str(receiveBuffer);
                         if (str.find("update") == 0 || str.find("insert") == 0) {
+                            //Caso in cui la richiesta sia una create o una update
                             stmt->execute(receiveBuffer);
                             string sendedStr = "Ok";
                             const int length = sendedStr.length();
@@ -44,8 +45,8 @@ class Metodi
                             delete[] char_array;
                         }
                         else {
+                            //Caso in cui la richiesta sia una select
                             res = stmt->executeQuery(receiveBuffer);
-                            // Invio della response al client
                             string sendedStr = "";
                             const int length = sendedStr.length();
                             char* char_array = new char[length];
@@ -68,7 +69,6 @@ class Metodi
                         }
                     }
                     
-
                 } while (count > 0);
             }
         }
