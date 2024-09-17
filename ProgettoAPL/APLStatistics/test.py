@@ -80,7 +80,7 @@ set_plot(valoreMateriale, chiaveMateriale, myExplode1, myColor1, "Preferenze di 
 plot.subplot(1,2,2)
 set_plot(valoreTipo, chiaveTipo, myExplode2, myColor2, "Preferenze di prodotto")
 
-plot.show()
+# plot.show()
 
 #Si effettua il salvataggio di un'immagine contenente il plot generato
 imagePath = "C:/APLProject/ProgettoAPL/APL-ServerDef/Plot"
