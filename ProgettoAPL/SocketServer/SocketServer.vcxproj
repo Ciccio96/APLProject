@@ -152,7 +152,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="metodi.h" />
     <ClCompile Include="ServerSocketLib\main.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="connectionToDb.h" />
+    <ClInclude Include="socketSetting.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

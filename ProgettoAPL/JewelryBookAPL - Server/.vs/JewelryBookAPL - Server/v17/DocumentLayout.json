@@ -3,7 +3,16 @@
   "WorkspaceRootPath": "C:\\APLProject\\ProgettoAPL\\JewelryBookAPL - Server\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\ProgettoAPL\\SocketServer\\ServerSocketLib\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{CAE68160-48AE-4338-910C-4B4490726511}|..\\SocketServer\\SocketServer.vcxproj|C:\\APLProject\\ProgettoAPL\\SocketServer\\metodi.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAE68160-48AE-4338-910C-4B4490726511}|..\\SocketServer\\SocketServer.vcxproj|C:\\APLProject\\ProgettoAPL\\SocketServer\\ServerSocketLib\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAE68160-48AE-4338-910C-4B4490726511}|..\\SocketServer\\SocketServer.vcxproj|C:\\APLProject\\ProgettoAPL\\SocketServer\\connectionToDb.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAE68160-48AE-4338-910C-4B4490726511}|..\\SocketServer\\SocketServer.vcxproj|C:\\APLProject\\ProgettoAPL\\SocketServer\\socketSetting.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,15 +31,53 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "main.cpp",
-              "DocumentMoniker": "C:\\ProgettoAPL\\SocketServer\\ServerSocketLib\\main.cpp",
-              "RelativeDocumentMoniker": "..\\..\\..\\ProgettoAPL\\SocketServer\\ServerSocketLib\\main.cpp",
-              "ToolTip": "C:\\ProgettoAPL\\SocketServer\\ServerSocketLib\\main.cpp",
-              "RelativeToolTip": "..\\..\\..\\ProgettoAPL\\SocketServer\\ServerSocketLib\\main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-09-13T14:36:31.62Z",
+              "Title": "metodi.h",
+              "DocumentMoniker": "C:\\APLProject\\ProgettoAPL\\SocketServer\\metodi.h",
+              "RelativeDocumentMoniker": "..\\SocketServer\\metodi.h",
+              "ToolTip": "C:\\APLProject\\ProgettoAPL\\SocketServer\\metodi.h",
+              "RelativeToolTip": "..\\SocketServer\\metodi.h",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAADYAAAByAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-16T11:06:23.902Z",
+              "IsPinned": true,
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\APLProject\\ProgettoAPL\\SocketServer\\ServerSocketLib\\main.cpp",
+              "RelativeDocumentMoniker": "..\\SocketServer\\ServerSocketLib\\main.cpp",
+              "ToolTip": "C:\\APLProject\\ProgettoAPL\\SocketServer\\ServerSocketLib\\main.cpp",
+              "RelativeToolTip": "..\\SocketServer\\ServerSocketLib\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-16T14:21:43.603Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "socketSetting.h",
+              "DocumentMoniker": "C:\\APLProject\\ProgettoAPL\\SocketServer\\socketSetting.h",
+              "RelativeDocumentMoniker": "..\\SocketServer\\socketSetting.h",
+              "ToolTip": "C:\\APLProject\\ProgettoAPL\\SocketServer\\socketSetting.h",
+              "RelativeToolTip": "..\\SocketServer\\socketSetting.h",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAD0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-16T16:15:20.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "connectionToDb.h",
+              "DocumentMoniker": "C:\\APLProject\\ProgettoAPL\\SocketServer\\connectionToDb.h",
+              "RelativeDocumentMoniker": "..\\SocketServer\\connectionToDb.h",
+              "ToolTip": "C:\\APLProject\\ProgettoAPL\\SocketServer\\connectionToDb.h",
+              "RelativeToolTip": "..\\SocketServer\\connectionToDb.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-16T15:21:15.723Z"
             }
           ]
         }

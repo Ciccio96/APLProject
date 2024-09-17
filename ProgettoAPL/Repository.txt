@@ -2,5 +2,5 @@
 
 Per scaricare il progetto recarsi al seguente path: https://github.com/Ciccio96/APLProject/tree/main/ProgettoAPL ed effettuarne il download
 
-Una volta scaricato posizionare la cartella ProgettoAPL (che si trova all'interno di APLProject) come al path seguente: C:\ProgettoAPL (condizione necessaria)
+Una volta scaricato posizionare la cartella ProgettoAPL (che si trova all'interno di APLProject) come al path seguente: C:\APLProject\ProgettoAPL (condizione necessaria)
 

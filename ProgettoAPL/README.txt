@@ -67,24 +67,24 @@ A questo punto il DB è pronto per essere utilizzato ....
 --------------------------------------------------- C++ (modulo Server) -------------------------------------------------------------
 
 Per l'avvio del server aprire tramite VisualStudio il file soluzione (JewelryBookAPL - Server.sln) che si trova al seguente path:
- --> C:\ProgettoAPL\JewelryBookAPL - Server
+ --> C:\APLProject\ProgettoAPL\JewelryBookAPL - Server
 
 N.B. Il file (main.cpp) che contiene il metodo main richiamato nel progetto si trova al seguente path: 
- --> C:\ProgettoAPL\SocketServer\ServerSocketLib
+ --> C:\APLProject\ProgettoAPL\SocketServer\ServerSocketLib
 
 
 
 --------------------------------------------------- C# (modulo Client) --------------------------------------------------------------
 
 Per l'avvio del client aprire tramite VisualStudio il file soluzione (APL-ServerDef.sln) che si trova al seguente path:
- --> C:\ProgettoAPL\APL-ServerDef
+ --> C:\APLProject\ProgettoAPL\APL-ServerDef
 
 
 
 --------------------------------------------------- PYTHON (modulo Statistiche) -----------------------------------------------------
 
 Per ispezionare il codice Python relativo alle statistiche esso si trova nel file test.py al seguente path:
- --> C:\ProgettoAPL\APLStatistics
+ --> C:\APLProject\ProgettoAPL\APLStatistics
 
 
 I passi seguenti vanno effettuati per visualizzare solo le statistiche attuali del programma (decommentare plot.Show() dal file test.py)
@@ -94,8 +94,9 @@ N.B. Per essere in linea con il funzionamento del programma bisogna almeno avere
 Se si utilizza VSCode impostare un interprete (o generare un venv) python tramite lo shortcut Ctrl+Shift+P
 
 A questo punto installare mysql-connector-python e matplotlib recandosi aprendo un nuovo terminale su VSCode
-utilizzando la sintassi seguente:
-pip install mysql-connector-python   e   pip install matplotlib
+utilizzando la sintassi seguente (non dovrebbe essere necessario ma se non si riuscisse ad aprire il file):
+
+C:\APLProject\ProgettoAPL\APLStatistics>pip install mysql-connector-python   e   C:\APLProject\ProgettoAPL\APLStatistics>pip install matplotlib
 
 *Se l'esecuzione di test.py non va a buon fine commentare momentaneamente le ultime tre righe e decommentare plot.Show().
 
